@@ -5,7 +5,3 @@
 <br><br>
 #### 前台采用jQuery框架，主要展示了公司的企业文化，主营产品，发展形势和招聘发布等信息。<br><br>
 ![](font1.png "Title")<br><br>![](font2.png "Title")<br><br>![](font3.png "Title")<br><br>
-#### Powered By：[何超(Back)](https://github.com/forgeekscn)  && [徐伟康(Front)](https://github.com/xuweikang)
-#### 联系作者
-- [x] forgeekscn@gmail.com
-- [x] http://forgeeks.cn
